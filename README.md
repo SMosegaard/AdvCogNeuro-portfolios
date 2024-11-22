@@ -1,2 +1,15 @@
 # AdvCogNeuro-portfolios
-GitHub repository that contains code for the portfolio exam in the course "Advanced Cognitive Neuroscience" - Msc Cognitive Science, 1st semester
+
+**Sofie Mosegaard**
+
+*Advanced Cognitive Neuroscience*  
+*Cognitive Science, Aarhus University*
+
+<br>
+
+## Portfolio exam structure
+
+This repository consists of code for two portfolio exams: 
+
+- **Portfolio 2** - fMRI group assignment
+- **Portfolio 3** -  MEG acquisition, analysis and report
